@@ -1,5 +1,5 @@
 # Huddle Landing Page | Frontend Mentor
-Repositório do desafio de HTML e CSS avançado do curso DevQuest 🚀
+Desafio de HTML e CSS avançado do curso DevQuest 🚀
 
 ## Visão Geral
 
