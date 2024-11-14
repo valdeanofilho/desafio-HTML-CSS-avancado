@@ -1,0 +1,81 @@
+
+html {
+    font-size: 62.5%;
+    height: 100vh;
+    background: var(--cor-primaria) url(../images/bg-desktop.svg)no-repeat center left;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    
+}
+
+.header img{
+    width: 21rem;
+    margin: 2.5% 8%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    max-width: 1400px;
+    margin-top: 3rem;
+    margin-left: 8rem;
+}
+
+.container .ilustracao img{
+    width: 100%;
+}
+
+.container .info {
+   margin: 5rem;
+   max-width: 45rem;
+    
+}
+.container .info h2 {
+    font-size: 4rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+}
+
+.container .info p {
+    font-size: 1.6rem;
+    font-weight: 300;
+    margin-bottom: 4rem;
+    
+}
+
+.container .info a{
+    font-size: 1.8rem;
+    background-color: #ffffff;
+    padding: 1.5rem 6.5rem;
+    border-radius: 3rem;
+    box-shadow: rgba(0, 0, 0, 0.9) 0px 0px 10px 0px;
+    transition: 0.5s ease-in-out;
+}
+
+.container .info a:hover {
+    background-color: var(--cor-secundária);
+    color: #ffffff;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 25%;
+}
+
+.footer .social a{
+    color: #ffffff;
+}
+.footer .social a i{
+    font-size: 1.5rem;
+    border: 1px solid;
+    border-radius: 60%;
+    padding: 0.9rem;
+    margin: 5px;
+    min-width: 35px;
+    transition: 0.5s ease-in-out;
+}
+
+.footer .social a:hover i{
+    color: var(--cor-secundária);
+}
