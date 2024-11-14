@@ -3,7 +3,7 @@ Desafio de HTML e CSS avançado do curso DevQuest 🚀
 
 ## Visão Geral
 
-Este é um desafio do Frontend Mentor compativo para desktop e mobile.
+Este é um desafio do Frontend Mentor compatível com desktop e mobile.
 
 <div style="display: flex; gap: 10px;">
   <img src="./src/images/desktop.gif" height="300" alt="gif da tela incial do projeto"/>
