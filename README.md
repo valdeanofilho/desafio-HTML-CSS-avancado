@@ -19,4 +19,5 @@ Este é um desafio do Frontend Mentor compatível com desktop e mobile.
 
 ## Autor
 
-[Valdeano Barbosa - Linkedin]((https://www.linkedin.com/in/valdeanofilhoo/))
+[Valdeano Barbosa - Linkedin](https://www.linkedin.com/in/valdeanofilhoo/)
+
